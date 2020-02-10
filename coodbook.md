@@ -1,7 +1,4 @@
----
-title: "Getting and Cleaning Data course Project codebook"
-output: html_document
----
+# Codebook
 
 ## variables
 
