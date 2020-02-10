@@ -217,7 +217,3 @@ The following transformations were applied to the original data:
 5. The subject was added to the dataset
 
 `run_analysis.R` contains the code used for these transformations
-
-
-
-
