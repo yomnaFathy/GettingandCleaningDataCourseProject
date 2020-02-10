@@ -5,7 +5,7 @@ if(!file.exists(filename)){
     download.file(fileURL, filename)
 }
 if(!file.exists("UCI HAR Dataset")){
-    unzip(filename) 
+    unzip(filename)
 }
 
 ## load and subset wanted features 
