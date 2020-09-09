@@ -1,6 +1,6 @@
-# GettingandCleaningDataCourseProject
+# Cleaning Human Activity Recognition Using Smartphones Dataset
 
-The goal of the project is to prepare a tidy data from raw data that can be used for later analysis
+The goal of the project is to prepare a tidy data from raw data that can be used for later analysis. 
 
 The original dataset can be found at:
 
